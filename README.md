@@ -1,16 +1,21 @@
 # University of Kabianga - Research Portal
 
-## UoK - Call for All ARGs
+> **UoK - Research & Innovation Management Information System (UoK RIMIS)**  
+> **UoK - Call for All ARGs**
+
+---
 
 **University of Kabianga - Call for All Annual Research Grants**
 
-- Moving from Laravel to Next.js framework
+- Shifting from *React* to Next.js framework  
+- Laravel, PHP Framework For Web Artisans
 
 ---
 
 ## Contributors
 
-- *Felix K.* | *Knoph O. A.*
+> *[KNOPH O. AYIEKO](https://github.com/Knoph1) · [Website](https://www.knoph.dev/)*  
+> *[Felix K.](https://github.com/FelixKiprotich350)*  
 
 ## Code of Conduct
 
