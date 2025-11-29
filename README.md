@@ -16,10 +16,6 @@
 > *[Knoph O. Ayieko](https://github.com/Knoph1)* · [Website](https://www.knoph.dev/)  
 > *[Felix K.](https://github.com/FelixKiprotich350)*
 
-## Code of Conduct
-
-In order to ensure that...
-
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Knoph A. via [Knoph-Ayieko](mailto:knophayieko@gmail.com).  
