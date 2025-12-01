@@ -13,7 +13,7 @@
 ---
 
 ## Contributors   
-> *[Knoph Ayieko](https://github.com/Knoph1)* · [Website](https://www.knoph.dev/)
+> *[Knoph Ayieko](https://github.com/Knoph1)* · [Website](https://www.knoph.dev/)  
 > *[Mary Muraguri](https://github.com/marymuraguri)*  
 > *[Felix Kiprotich](https://github.com/FelixKiprotich350)*
 
